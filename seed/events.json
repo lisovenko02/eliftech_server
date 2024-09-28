@@ -1,0 +1,770 @@
+[
+  {
+    "title": "Tech Conference 2024",
+    "description": "Join us for a day of insightful talks and networking with industry leaders.",
+    "eventDate": "2024-11-15T00:00:00Z",
+    "organizer": "Tech Innovators"
+  },
+  {
+    "title": "Art Expo 2024",
+    "description": "Explore stunning artworks from local artists at our annual Art Expo.",
+    "eventDate": "2024-11-25T00:00:00Z",
+    "organizer": "Art Community"
+  },
+  {
+    "title": "Music Festival",
+    "description": "Enjoy live music performances from top artists across various genres.",
+    "eventDate": "2024-12-05T00:00:00Z",
+    "organizer": "Music Lovers"
+  },
+  {
+    "title": "Food Fair",
+    "description": "Taste delicious food from around the world at the annual Food Fair.",
+    "eventDate": "2024-12-15T00:00:00Z",
+    "organizer": "Culinary Association"
+  },
+  {
+    "title": "Startup Pitch Night",
+    "description": "Watch startups pitch their ideas to a panel of investors.",
+    "eventDate": "2024-12-25T00:00:00Z",
+    "organizer": "Startup Hub"
+  },
+  {
+    "title": "Yoga Retreat",
+    "description": "Relax and rejuvenate at our weekend yoga retreat in the mountains.",
+    "eventDate": "2025-01-04T00:00:00Z",
+    "organizer": "Wellness Center"
+  },
+  {
+    "title": "Digital Marketing Workshop",
+    "description": "Learn the latest trends in digital marketing with industry experts.",
+    "eventDate": "2025-01-14T00:00:00Z",
+    "organizer": "Marketing Masters"
+  },
+  {
+    "title": "Photography Masterclass",
+    "description": "Enhance your photography skills with hands-on training from professionals.",
+    "eventDate": "2025-01-24T00:00:00Z",
+    "organizer": "Creative Photography Group"
+  },
+  {
+    "title": "Annual Charity Gala",
+    "description": "Join us for a night of giving back with dinner, auctions, and entertainment.",
+    "eventDate": "2025-02-03T00:00:00Z",
+    "organizer": "Giving Hearts"
+  },
+  {
+    "title": "Tech Bootcamp",
+    "description": "Intensive coding bootcamp for aspiring software developers.",
+    "eventDate": "2025-02-13T00:00:00Z",
+    "organizer": "Code Academy"
+  },
+  {
+    "title": "Health and Wellness Fair",
+    "description": "Discover wellness resources and services for a healthier lifestyle.",
+    "eventDate": "2025-02-23T00:00:00Z",
+    "organizer": "Health Alliance"
+  },
+  {
+    "title": "Local Craft Fair",
+    "description": "Shop handmade goods from local artisans and crafters.",
+    "eventDate": "2025-03-05T00:00:00Z",
+    "organizer": "Crafty Creators"
+  },
+  {
+    "title": "Summer Sports Camp",
+    "description": "Join us for a fun-filled week of sports activities and competitions.",
+    "eventDate": "2025-03-15T00:00:00Z",
+    "organizer": "Sports Academy"
+  },
+  {
+    "title": "Book Lovers Meetup",
+    "description": "Connect with fellow book enthusiasts and discuss your favorite reads.",
+    "eventDate": "2025-03-25T00:00:00Z",
+    "organizer": "Readers Unite"
+  },
+  {
+    "title": "Innovative Tech Summit",
+    "description": "Explore cutting-edge technologies and their impact on the future.",
+    "eventDate": "2025-04-04T00:00:00Z",
+    "organizer": "Future Innovators"
+  },
+  {
+    "title": "Environmental Awareness Day",
+    "description": "Join us to learn about sustainability and eco-friendly practices.",
+    "eventDate": "2025-04-14T00:00:00Z",
+    "organizer": "Eco Warriors"
+  },
+  {
+    "title": "Annual Film Festival",
+    "description": "Celebrate independent films and meet the filmmakers behind them.",
+    "eventDate": "2025-04-24T00:00:00Z",
+    "organizer": "Film Lovers Society"
+  },
+  {
+    "title": "Coding Hackathon",
+    "description": "Collaborate with peers to build innovative projects over 48 hours.",
+    "eventDate": "2025-05-04T00:00:00Z",
+    "organizer": "Dev Community"
+  },
+  {
+    "title": "Pet Adoption Fair",
+    "description": "Find your new furry friend at our pet adoption event.",
+    "eventDate": "2025-05-14T00:00:00Z",
+    "organizer": "Animal Shelter"
+  },
+  {
+    "title": "Wine Tasting Event",
+    "description": "Sample exquisite wines and learn from expert sommeliers.",
+    "eventDate": "2025-05-24T00:00:00Z",
+    "organizer": "Wine Enthusiasts"
+  },
+  {
+    "title": "Tech Conference 2024",
+    "description": "Join us for a day of insightful talks and networking with industry leaders.",
+    "eventDate": "2025-06-03T00:00:00Z",
+    "organizer": "Tech Innovators"
+  },
+  {
+    "title": "Art Expo 2024",
+    "description": "Explore stunning artworks from local artists at our annual Art Expo.",
+    "eventDate": "2025-06-13T00:00:00Z",
+    "organizer": "Art Community"
+  },
+  {
+    "title": "Music Festival",
+    "description": "Enjoy live music performances from top artists across various genres.",
+    "eventDate": "2025-06-23T00:00:00Z",
+    "organizer": "Music Lovers"
+  },
+  {
+    "title": "Food Fair",
+    "description": "Taste delicious food from around the world at the annual Food Fair.",
+    "eventDate": "2025-07-03T00:00:00Z",
+    "organizer": "Culinary Association"
+  },
+  {
+    "title": "Startup Pitch Night",
+    "description": "Watch startups pitch their ideas to a panel of investors.",
+    "eventDate": "2025-07-13T00:00:00Z",
+    "organizer": "Startup Hub"
+  },
+  {
+    "title": "Yoga Retreat",
+    "description": "Relax and rejuvenate at our weekend yoga retreat in the mountains.",
+    "eventDate": "2025-07-23T00:00:00Z",
+    "organizer": "Wellness Center"
+  },
+  {
+    "title": "Digital Marketing Workshop",
+    "description": "Learn the latest trends in digital marketing with industry experts.",
+    "eventDate": "2025-08-02T00:00:00Z",
+    "organizer": "Marketing Masters"
+  },
+  {
+    "title": "Photography Masterclass",
+    "description": "Enhance your photography skills with hands-on training from professionals.",
+    "eventDate": "2025-08-12T00:00:00Z",
+    "organizer": "Creative Photography Group"
+  },
+  {
+    "title": "Annual Charity Gala",
+    "description": "Join us for a night of giving back with dinner, auctions, and entertainment.",
+    "eventDate": "2025-08-22T00:00:00Z",
+    "organizer": "Giving Hearts"
+  },
+  {
+    "title": "Tech Bootcamp",
+    "description": "Intensive coding bootcamp for aspiring software developers.",
+    "eventDate": "2025-09-01T00:00:00Z",
+    "organizer": "Code Academy"
+  },
+  {
+    "title": "Health and Wellness Fair",
+    "description": "Discover wellness resources and services for a healthier lifestyle.",
+    "eventDate": "2025-09-11T00:00:00Z",
+    "organizer": "Health Alliance"
+  },
+  {
+    "title": "Local Craft Fair",
+    "description": "Shop handmade goods from local artisans and crafters.",
+    "eventDate": "2025-09-21T00:00:00Z",
+    "organizer": "Crafty Creators"
+  },
+  {
+    "title": "Summer Sports Camp",
+    "description": "Join us for a fun-filled week of sports activities and competitions.",
+    "eventDate": "2025-10-01T00:00:00Z",
+    "organizer": "Sports Academy"
+  },
+  {
+    "title": "Book Lovers Meetup",
+    "description": "Connect with fellow book enthusiasts and discuss your favorite reads.",
+    "eventDate": "2025-10-11T00:00:00Z",
+    "organizer": "Readers Unite"
+  },
+  {
+    "title": "Innovative Tech Summit",
+    "description": "Explore cutting-edge technologies and their impact on the future.",
+    "eventDate": "2025-10-21T00:00:00Z",
+    "organizer": "Future Innovators"
+  },
+  {
+    "title": "Environmental Awareness Day",
+    "description": "Join us to learn about sustainability and eco-friendly practices.",
+    "eventDate": "2025-10-31T00:00:00Z",
+    "organizer": "Eco Warriors"
+  },
+  {
+    "title": "Annual Film Festival",
+    "description": "Celebrate independent films and meet the filmmakers behind them.",
+    "eventDate": "2025-11-10T00:00:00Z",
+    "organizer": "Film Lovers Society"
+  },
+  {
+    "title": "Coding Hackathon",
+    "description": "Collaborate with peers to build innovative projects over 48 hours.",
+    "eventDate": "2025-11-20T00:00:00Z",
+    "organizer": "Dev Community"
+  },
+  {
+    "title": "Pet Adoption Fair",
+    "description": "Find your new furry friend at our pet adoption event.",
+    "eventDate": "2025-11-30T00:00:00Z",
+    "organizer": "Animal Shelter"
+  },
+  {
+    "title": "Wine Tasting Event",
+    "description": "Sample exquisite wines and learn from expert sommeliers.",
+    "eventDate": "2025-12-10T00:00:00Z",
+    "organizer": "Wine Enthusiasts"
+  },
+  {
+    "title": "Tech Conference 2024",
+    "description": "Join us for a day of insightful talks and networking with industry leaders.",
+    "eventDate": "2025-12-20T00:00:00Z",
+    "organizer": "Tech Innovators"
+  },
+  {
+    "title": "Art Expo 2024",
+    "description": "Explore stunning artworks from local artists at our annual Art Expo.",
+    "eventDate": "2026-01-01T00:00:00Z",
+    "organizer": "Art Community"
+  },
+  {
+    "title": "Music Festival",
+    "description": "Enjoy live music performances from top artists across various genres.",
+    "eventDate": "2026-01-11T00:00:00Z",
+    "organizer": "Music Lovers"
+  },
+  {
+    "title": "Food Fair",
+    "description": "Taste delicious food from around the world at the annual Food Fair.",
+    "eventDate": "2026-01-21T00:00:00Z",
+    "organizer": "Culinary Association"
+  },
+  {
+    "title": "Startup Pitch Night",
+    "description": "Watch startups pitch their ideas to a panel of investors.",
+    "eventDate": "2026-01-31T00:00:00Z",
+    "organizer": "Startup Hub"
+  },
+  {
+    "title": "Yoga Retreat",
+    "description": "Relax and rejuvenate at our weekend yoga retreat in the mountains.",
+    "eventDate": "2026-02-10T00:00:00Z",
+    "organizer": "Wellness Center"
+  },
+  {
+    "title": "Digital Marketing Workshop",
+    "description": "Learn the latest trends in digital marketing with industry experts.",
+    "eventDate": "2026-02-20T00:00:00Z",
+    "organizer": "Marketing Masters"
+  },
+  {
+    "title": "Photography Masterclass",
+    "description": "Enhance your photography skills with hands-on training from professionals.",
+    "eventDate": "2026-03-02T00:00:00Z",
+    "organizer": "Creative Photography Group"
+  },
+  {
+    "title": "Annual Charity Gala",
+    "description": "Join us for a night of giving back with dinner, auctions, and entertainment.",
+    "eventDate": "2026-03-12T00:00:00Z",
+    "organizer": "Giving Hearts"
+  },
+  {
+    "title": "Tech Bootcamp",
+    "description": "Intensive coding bootcamp for aspiring software developers.",
+    "eventDate": "2026-03-22T00:00:00Z",
+    "organizer": "Code Academy"
+  },
+  {
+    "title": "Health and Wellness Fair",
+    "description": "Discover wellness resources and services for a healthier lifestyle.",
+    "eventDate": "2026-04-01T00:00:00Z",
+    "organizer": "Health Alliance"
+  },
+  {
+    "title": "Local Craft Fair",
+    "description": "Shop handmade goods from local artisans and crafters.",
+    "eventDate": "2026-04-11T00:00:00Z",
+    "organizer": "Crafty Creators"
+  },
+  {
+    "title": "Summer Sports Camp",
+    "description": "Join us for a fun-filled week of sports activities and competitions.",
+    "eventDate": "2026-04-21T00:00:00Z",
+    "organizer": "Sports Academy"
+  },
+  {
+    "title": "Book Lovers Meetup",
+    "description": "Connect with fellow book enthusiasts and discuss your favorite reads.",
+    "eventDate": "2026-05-01T00:00:00Z",
+    "organizer": "Readers Unite"
+  },
+  {
+    "title": "Innovative Tech Summit",
+    "description": "Explore cutting-edge technologies and their impact on the future.",
+    "eventDate": "2026-05-11T00:00:00Z",
+    "organizer": "Future Innovators"
+  },
+  {
+    "title": "Environmental Awareness Day",
+    "description": "Join us to learn about sustainability and eco-friendly practices.",
+    "eventDate": "2026-05-21T00:00:00Z",
+    "organizer": "Eco Warriors"
+  },
+  {
+    "title": "Annual Film Festival",
+    "description": "Celebrate independent films and meet the filmmakers behind them.",
+    "eventDate": "2026-05-31T00:00:00Z",
+    "organizer": "Film Lovers Society"
+  },
+  {
+    "title": "Coding Hackathon",
+    "description": "Collaborate with peers to build innovative projects over 48 hours.",
+    "eventDate": "2026-06-10T00:00:00Z",
+    "organizer": "Dev Community"
+  },
+  {
+    "title": "Pet Adoption Fair",
+    "description": "Find your new furry friend at our pet adoption event.",
+    "eventDate": "2026-06-20T00:00:00Z",
+    "organizer": "Animal Shelter"
+  },
+  {
+    "title": "Wine Tasting Event",
+    "description": "Sample exquisite wines and learn from expert sommeliers.",
+    "eventDate": "2026-06-30T00:00:00Z",
+    "organizer": "Wine Enthusiasts"
+  },
+  {
+    "title": "Tech Conference 2024",
+    "description": "Join us for a day of insightful talks and networking with industry leaders.",
+    "eventDate": "2026-07-10T00:00:00Z",
+    "organizer": "Tech Innovators"
+  },
+  {
+    "title": "Art Expo 2024",
+    "description": "Explore stunning artworks from local artists at our annual Art Expo.",
+    "eventDate": "2026-07-20T00:00:00Z",
+    "organizer": "Art Community"
+  },
+  {
+    "title": "Music Festival",
+    "description": "Enjoy live music performances from top artists across various genres.",
+    "eventDate": "2026-07-30T00:00:00Z",
+    "organizer": "Music Lovers"
+  },
+  {
+    "title": "Food Fair",
+    "description": "Taste delicious food from around the world at the annual Food Fair.",
+    "eventDate": "2026-08-09T00:00:00Z",
+    "organizer": "Culinary Association"
+  },
+  {
+    "title": "Startup Pitch Night",
+    "description": "Watch startups pitch their ideas to a panel of investors.",
+    "eventDate": "2026-08-19T00:00:00Z",
+    "organizer": "Startup Hub"
+  },
+  {
+    "title": "Yoga Retreat",
+    "description": "Relax and rejuvenate at our weekend yoga retreat in the mountains.",
+    "eventDate": "2026-08-29T00:00:00Z",
+    "organizer": "Wellness Center"
+  },
+  {
+    "title": "Digital Marketing Workshop",
+    "description": "Learn the latest trends in digital marketing with industry experts.",
+    "eventDate": "2026-09-08T00:00:00Z",
+    "organizer": "Marketing Masters"
+  },
+  {
+    "title": "Photography Masterclass",
+    "description": "Enhance your photography skills with hands-on training from professionals.",
+    "eventDate": "2026-09-18T00:00:00Z",
+    "organizer": "Creative Photography Group"
+  },
+  {
+    "title": "Annual Charity Gala",
+    "description": "Join us for a night of giving back with dinner, auctions, and entertainment.",
+    "eventDate": "2026-09-28T00:00:00Z",
+    "organizer": "Giving Hearts"
+  },
+  {
+    "title": "Tech Bootcamp",
+    "description": "Intensive coding bootcamp for aspiring software developers.",
+    "eventDate": "2026-10-08T00:00:00Z",
+    "organizer": "Code Academy"
+  },
+  {
+    "title": "Health and Wellness Fair",
+    "description": "Discover wellness resources and services for a healthier lifestyle.",
+    "eventDate": "2026-10-18T00:00:00Z",
+    "organizer": "Health Alliance"
+  },
+  {
+    "title": "Local Craft Fair",
+    "description": "Shop handmade goods from local artisans and crafters.",
+    "eventDate": "2026-10-28T00:00:00Z",
+    "organizer": "Crafty Creators"
+  },
+  {
+    "title": "Summer Sports Camp",
+    "description": "Join us for a fun-filled week of sports activities and competitions.",
+    "eventDate": "2026-11-07T00:00:00Z",
+    "organizer": "Sports Academy"
+  },
+  {
+    "title": "Book Lovers Meetup",
+    "description": "Connect with fellow book enthusiasts and discuss your favorite reads.",
+    "eventDate": "2026-11-17T00:00:00Z",
+    "organizer": "Readers Unite"
+  },
+  {
+    "title": "Innovative Tech Summit",
+    "description": "Explore cutting-edge technologies and their impact on the future.",
+    "eventDate": "2026-11-27T00:00:00Z",
+    "organizer": "Future Innovators"
+  },
+  {
+    "title": "Environmental Awareness Day",
+    "description": "Join us to learn about sustainability and eco-friendly practices.",
+    "eventDate": "2026-12-07T00:00:00Z",
+    "organizer": "Eco Warriors"
+  },
+  {
+    "title": "Annual Film Festival",
+    "description": "Celebrate independent films and meet the filmmakers behind them.",
+    "eventDate": "2026-12-17T00:00:00Z",
+    "organizer": "Film Lovers Society"
+  },
+  {
+    "title": "Coding Hackathon",
+    "description": "Collaborate with peers to build innovative projects over 48 hours.",
+    "eventDate": "2026-12-27T00:00:00Z",
+    "organizer": "Dev Community"
+  },
+  {
+    "title": "Pet Adoption Fair",
+    "description": "Find your new furry friend at our pet adoption event.",
+    "eventDate": "2027-01-06T00:00:00Z",
+    "organizer": "Animal Shelter"
+  },
+  {
+    "title": "Wine Tasting Event",
+    "description": "Sample exquisite wines and learn from expert sommeliers.",
+    "eventDate": "2027-01-16T00:00:00Z",
+    "organizer": "Wine Enthusiasts"
+  },
+  {
+    "title": "Tech Conference 2024",
+    "description": "Join us for a day of insightful talks and networking with industry leaders.",
+    "eventDate": "2027-01-26T00:00:00Z",
+    "organizer": "Tech Innovators"
+  },
+  {
+    "title": "Art Expo 2024",
+    "description": "Explore stunning artworks from local artists at our annual Art Expo.",
+    "eventDate": "2027-02-05T00:00:00Z",
+    "organizer": "Art Community"
+  },
+  {
+    "title": "Music Festival",
+    "description": "Enjoy live music performances from top artists across various genres.",
+    "eventDate": "2027-02-15T00:00:00Z",
+    "organizer": "Music Lovers"
+  },
+  {
+    "title": "Food Fair",
+    "description": "Taste delicious food from around the world at the annual Food Fair.",
+    "eventDate": "2027-02-25T00:00:00Z",
+    "organizer": "Culinary Association"
+  },
+  {
+    "title": "Startup Pitch Night",
+    "description": "Watch startups pitch their ideas to a panel of investors.",
+    "eventDate": "2027-03-07T00:00:00Z",
+    "organizer": "Startup Hub"
+  },
+  {
+    "title": "Yoga Retreat",
+    "description": "Relax and rejuvenate at our weekend yoga retreat in the mountains.",
+    "eventDate": "2027-03-17T00:00:00Z",
+    "organizer": "Wellness Center"
+  },
+  {
+    "title": "Digital Marketing Workshop",
+    "description": "Learn the latest trends in digital marketing with industry experts.",
+    "eventDate": "2027-03-27T00:00:00Z",
+    "organizer": "Marketing Masters"
+  },
+  {
+    "title": "Photography Masterclass",
+    "description": "Enhance your photography skills with hands-on training from professionals.",
+    "eventDate": "2027-04-06T00:00:00Z",
+    "organizer": "Creative Photography Group"
+  },
+  {
+    "title": "Annual Charity Gala",
+    "description": "Join us for a night of giving back with dinner, auctions, and entertainment.",
+    "eventDate": "2027-04-16T00:00:00Z",
+    "organizer": "Giving Hearts"
+  },
+  {
+    "title": "Tech Bootcamp",
+    "description": "Intensive coding bootcamp for aspiring software developers.",
+    "eventDate": "2027-04-26T00:00:00Z",
+    "organizer": "Code Academy"
+  },
+  {
+    "title": "Health and Wellness Fair",
+    "description": "Discover wellness resources and services for a healthier lifestyle.",
+    "eventDate": "2027-05-06T00:00:00Z",
+    "organizer": "Health Alliance"
+  },
+  {
+    "title": "Local Craft Fair",
+    "description": "Shop handmade goods from local artisans and crafters.",
+    "eventDate": "2027-05-16T00:00:00Z",
+    "organizer": "Crafty Creators"
+  },
+  {
+    "title": "Summer Sports Camp",
+    "description": "Join us for a fun-filled week of sports activities and competitions.",
+    "eventDate": "2027-05-26T00:00:00Z",
+    "organizer": "Sports Academy"
+  },
+  {
+    "title": "Book Lovers Meetup",
+    "description": "Connect with fellow book enthusiasts and discuss your favorite reads.",
+    "eventDate": "2027-06-05T00:00:00Z",
+    "organizer": "Readers Unite"
+  },
+  {
+    "title": "Innovative Tech Summit",
+    "description": "Explore cutting-edge technologies and their impact on the future.",
+    "eventDate": "2027-06-15T00:00:00Z",
+    "organizer": "Future Innovators"
+  },
+  {
+    "title": "Environmental Awareness Day",
+    "description": "Join us to learn about sustainability and eco-friendly practices.",
+    "eventDate": "2027-06-25T00:00:00Z",
+    "organizer": "Eco Warriors"
+  },
+  {
+    "title": "Annual Film Festival",
+    "description": "Celebrate independent films and meet the filmmakers behind them.",
+    "eventDate": "2027-07-05T00:00:00Z",
+    "organizer": "Film Lovers Society"
+  },
+  {
+    "title": "Coding Hackathon",
+    "description": "Collaborate with peers to build innovative projects over 48 hours.",
+    "eventDate": "2027-07-15T00:00:00Z",
+    "organizer": "Dev Community"
+  },
+  {
+    "title": "Pet Adoption Fair",
+    "description": "Find your new furry friend at our pet adoption event.",
+    "eventDate": "2027-07-25T00:00:00Z",
+    "organizer": "Animal Shelter"
+  },
+  {
+    "title": "Wine Tasting Event",
+    "description": "Sample exquisite wines and learn from expert sommeliers.",
+    "eventDate": "2027-08-04T00:00:00Z",
+    "organizer": "Wine Enthusiasts"
+  },
+  {
+    "title": "Tech Conference 2024",
+    "description": "Join us for a day of insightful talks and networking with industry leaders.",
+    "eventDate": "2027-08-14T00:00:00Z",
+    "organizer": "Tech Innovators"
+  },
+  {
+    "title": "Art Expo 2024",
+    "description": "Explore stunning artworks from local artists at our annual Art Expo.",
+    "eventDate": "2027-08-24T00:00:00Z",
+    "organizer": "Art Community"
+  },
+  {
+    "title": "Music Festival",
+    "description": "Enjoy live music performances from top artists across various genres.",
+    "eventDate": "2027-09-03T00:00:00Z",
+    "organizer": "Music Lovers"
+  },
+  {
+    "title": "Food Fair",
+    "description": "Taste delicious food from around the world at the annual Food Fair.",
+    "eventDate": "2027-09-13T00:00:00Z",
+    "organizer": "Culinary Association"
+  },
+  {
+    "title": "Startup Pitch Night",
+    "description": "Watch startups pitch their ideas to a panel of investors.",
+    "eventDate": "2027-09-23T00:00:00Z",
+    "organizer": "Startup Hub"
+  },
+  {
+    "title": "Yoga Retreat",
+    "description": "Relax and rejuvenate at our weekend yoga retreat in the mountains.",
+    "eventDate": "2027-10-03T00:00:00Z",
+    "organizer": "Wellness Center"
+  },
+  {
+    "title": "Digital Marketing Workshop",
+    "description": "Learn the latest trends in digital marketing with industry experts.",
+    "eventDate": "2027-10-13T00:00:00Z",
+    "organizer": "Marketing Masters"
+  },
+  {
+    "title": "Photography Masterclass",
+    "description": "Enhance your photography skills with hands-on training from professionals.",
+    "eventDate": "2027-10-23T00:00:00Z",
+    "organizer": "Creative Photography Group"
+  },
+  {
+    "title": "Culinary Workshop",
+    "description": "Learn to cook gourmet meals with professional chefs.",
+    "eventDate": "2028-01-05T00:00:00Z",
+    "organizer": "Culinary Academy"
+  },
+  {
+    "title": "Virtual Reality Expo",
+    "description": "Explore the latest in virtual reality technology and applications.",
+    "eventDate": "2028-01-15T00:00:00Z",
+    "organizer": "VR Innovations"
+  },
+  {
+    "title": "Outdoor Adventure Day",
+    "description": "Join us for a day of hiking, climbing, and outdoor activities.",
+    "eventDate": "2028-01-25T00:00:00Z",
+    "organizer": "Adventure Club"
+  },
+  {
+    "title": "Pet Training Workshop",
+    "description": "Learn effective training techniques for your furry friends.",
+    "eventDate": "2028-02-04T00:00:00Z",
+    "organizer": "Pet Training Academy"
+  },
+  {
+    "title": "AI and Machine Learning Conference",
+    "description": "Discover the future of AI and its impact on various industries.",
+    "eventDate": "2028-02-14T00:00:00Z",
+    "organizer": "Tech Institute"
+  },
+  {
+    "title": "Gardening Workshop",
+    "description": "Get hands-on experience in creating your own garden.",
+    "eventDate": "2028-02-24T00:00:00Z",
+    "organizer": "Green Thumb Society"
+  },
+  {
+    "title": "Photography Contest",
+    "description": "Submit your best photos for a chance to win prizes.",
+    "eventDate": "2028-03-05T00:00:00Z",
+    "organizer": "Photo Club"
+  },
+  {
+    "title": "Blockchain Basics Seminar",
+    "description": "Learn the fundamentals of blockchain technology.",
+    "eventDate": "2028-03-15T00:00:00Z",
+    "organizer": "Crypto Academy"
+  },
+  {
+    "title": "Healthy Living Expo",
+    "description": "Discover tips and resources for a healthier lifestyle.",
+    "eventDate": "2028-03-25T00:00:00Z",
+    "organizer": "Wellness Group"
+  },
+  {
+    "title": "Creative Writing Workshop",
+    "description": "Enhance your writing skills with expert guidance.",
+    "eventDate": "2028-04-04T00:00:00Z",
+    "organizer": "Writers Guild"
+  },
+  {
+    "title": "Annual Science Fair",
+    "description": "Showcase your science projects and experiments.",
+    "eventDate": "2028-04-14T00:00:00Z",
+    "organizer": "Science Society"
+  },
+  {
+    "title": "Coding Bootcamp",
+    "description": "Intensive training for aspiring software developers.",
+    "eventDate": "2028-04-24T00:00:00Z",
+    "organizer": "Tech Academy"
+  },
+  {
+    "title": "Travel and Adventure Expo",
+    "description": "Explore travel options and meet adventure enthusiasts.",
+    "eventDate": "2028-05-04T00:00:00Z",
+    "organizer": "Travel Society"
+  },
+  {
+    "title": "Annual Charity Run",
+    "description": "Participate in a run to support local charities.",
+    "eventDate": "2028-05-14T00:00:00Z",
+    "organizer": "Community Fundraisers"
+  },
+  {
+    "title": "DIY Home Improvement Workshop",
+    "description": "Learn tips and tricks for home renovation projects.",
+    "eventDate": "2028-05-24T00:00:00Z",
+    "organizer": "Home Builders"
+  },
+  {
+    "title": "Finance and Investment Seminar",
+    "description": "Get insights on financial planning and investments.",
+    "eventDate": "2028-06-03T00:00:00Z",
+    "organizer": "Financial Experts"
+  },
+  {
+    "title": "Annual Technology Festival",
+    "description": "Showcase the latest innovations in technology.",
+    "eventDate": "2028-06-13T00:00:00Z",
+    "organizer": "Tech Festival"
+  },
+  {
+    "title": "Nature Photography Workshop",
+    "description": "Capture the beauty of nature with expert photographers.",
+    "eventDate": "2028-06-23T00:00:00Z",
+    "organizer": "Nature Enthusiasts"
+  },
+  {
+    "title": "Sustainable Living Fair",
+    "description": "Learn how to live sustainably and reduce your carbon footprint.",
+    "eventDate": "2028-07-03T00:00:00Z",
+    "organizer": "Eco Community"
+  },
+  {
+    "title": "Cultural Diversity Day",
+    "description": "Celebrate cultural diversity through food, art, and performances.",
+    "eventDate": "2028-07-13T00:00:00Z",
+    "organizer": "Cultural Association"
+  }
+]
